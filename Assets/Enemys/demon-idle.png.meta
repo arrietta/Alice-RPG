@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8b5c5bc70261cc5499c76b91824336e1
+guid: 692ec5807a5efaa4dbe0ee1a6d20b46f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Side Movement_0
+      name: demon-idle_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 86
-        width: 10
-        height: 23
+        x: 18
+        y: 17
+        width: 134
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70afd5caa0e07db479fa01819e908987
-      internalID: -772158741
+      spriteID: 768ae09afc257f14bad886a9aaead0ba
+      internalID: 1974804777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Movement_1
+      name: demon-idle_1
       rect:
         serializedVersion: 2
-        x: 89
-        y: 86
-        width: 10
-        height: 23
+        x: 164
+        y: 16
+        width: 156
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c59a2de368dd86f4388ca1369d541232
-      internalID: -931440268
+      spriteID: dd605143b793704448a4f1daa8f59b3e
+      internalID: -1134597300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Movement_2
+      name: demon-idle_2
       rect:
         serializedVersion: 2
-        x: 153
-        y: 86
-        width: 10
-        height: 22
+        x: 332
+        y: 18
+        width: 140
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3bf9eeac94c37446aa7f5dcfcba33d9
-      internalID: -521276722
+      spriteID: bd2866fcf90c3fa48a7a91bd5facdef8
+      internalID: 418992253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Movement_3
+      name: demon-idle_3
       rect:
         serializedVersion: 2
-        x: 217
-        y: 86
-        width: 11
-        height: 23
+        x: 498
+        y: 18
+        width: 100
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b84a7348eca718f4e965d4ae48845626
-      internalID: -1126030541
+      spriteID: 80c748b72dac97b4582d36f5f8202597
+      internalID: 922678660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Movement_4
+      name: demon-idle_4
       rect:
         serializedVersion: 2
-        x: 280
-        y: 86
-        width: 13
-        height: 24
+        x: 652
+        y: 18
+        width: 140
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60060ec32daebb54bbd16ad5edb8310c
-      internalID: -583578571
+      spriteID: e3979978745b1524aadfd0cbddb719aa
+      internalID: 510298182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Movement_5
+      name: demon-idle_5
       rect:
         serializedVersion: 2
-        x: 344
-        y: 86
-        width: 13
-        height: 23
+        x: 804
+        y: 18
+        width: 156
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,134 +242,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92bb7d689a6e9d24eb38dd5924083a00
-      internalID: -1495174584
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side Movement_6
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 22
-        width: 11
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 175b02482588f1d45a71b23148647c1a
-      internalID: -483127222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side Movement_7
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 22
-        width: 11
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0250b225a5bd31444b0f545c977a85b7
-      internalID: -243632585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side Movement_8
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 22
-        width: 11
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56d6f8f589d0ef2448f089ae0925554e
-      internalID: -358306435
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side Movement_9
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 22
-        width: 11
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d38dd144469f97646bdfb21b128f632b
-      internalID: -114857854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side Movement_10
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 23
-        width: 11
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3eceeebad9818c14ba736d2ec22d0b89
-      internalID: -1577754999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side Movement_11
-      rect:
-        serializedVersion: 2
-        x: 344
-        y: 23
-        width: 11
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c498690f7952eae4d83999b3c8516469
-      internalID: 998298966
+      spriteID: d7664c6dc26c34a4dbd00668510b858f
+      internalID: 2114707145
       vertices: []
       indices: 
       edges: []
@@ -385,18 +259,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Side Movement_0: -772158741
-      Side Movement_1: -931440268
-      Side Movement_10: -1577754999
-      Side Movement_11: 998298966
-      Side Movement_2: -521276722
-      Side Movement_3: -1126030541
-      Side Movement_4: -583578571
-      Side Movement_5: -1495174584
-      Side Movement_6: -483127222
-      Side Movement_7: -243632585
-      Side Movement_8: -358306435
-      Side Movement_9: -114857854
+      demon-idle_0: 1974804777
+      demon-idle_1: -1134597300
+      demon-idle_2: 418992253
+      demon-idle_3: 922678660
+      demon-idle_4: 510298182
+      demon-idle_5: 2114707145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

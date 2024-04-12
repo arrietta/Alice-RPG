@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 82a10b9d274429f4b9278b5904319b43
+guid: 556df0c22d5d84b428d1552321d9de9c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Side Dash_0
+      name: Idle_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 22
-        width: 16
-        height: 21
+        x: 64
+        y: 49
+        width: 23
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77bc473871b0e7a44bac3f6c0fc624df
-      internalID: 303779720
+      spriteID: 61cbd18ae1ee8204998e455095e5dbd4
+      internalID: -1912526052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Dash_1
+      name: Idle_1
       rect:
         serializedVersion: 2
-        x: 85
-        y: 22
-        width: 16
-        height: 20
+        x: 214
+        y: 49
+        width: 23
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 931b3b87415c4904894ee233b0fe2c2b
-      internalID: 1059041770
+      spriteID: 72d9a49ad08f18048820aed69aa01262
+      internalID: -1484085929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Dash_2
+      name: Idle_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 22
-        width: 16
-        height: 20
+        x: 364
+        y: 49
+        width: 23
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bc9e97174345d64495abe891fe4f522
-      internalID: -1487910945
+      spriteID: 330694a1ba4390540846c11028ca1938
+      internalID: -1236931554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side Dash_3
+      name: Idle_3
       rect:
         serializedVersion: 2
-        x: 213
-        y: 22
-        width: 16
-        height: 20
+        x: 514
+        y: 49
+        width: 23
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43f469497377e64459d07e564c9d5343
-      internalID: -1986441154
+      spriteID: 721f877b0a804b047a4b6ff317d272f0
+      internalID: -1257797719
       vertices: []
       indices: 
       edges: []
@@ -217,10 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Side Dash_0: 303779720
-      Side Dash_1: 1059041770
-      Side Dash_2: -1487910945
-      Side Dash_3: -1986441154
+      Idle_0: -1912526052
+      Idle_1: -1484085929
+      Idle_2: -1236931554
+      Idle_3: -1257797719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
